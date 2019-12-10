@@ -19,4 +19,6 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+`https://github.com/huanglong/ice-mina`
+
+小程序代码
